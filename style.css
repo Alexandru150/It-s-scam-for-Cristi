@@ -1,0 +1,39 @@
+body{
+    margin:0px;
+    padding:0px;
+}
+
+#container { background-color: gray;
+    border-radius: 10px;
+    height:300px;
+    width: 500px;
+    margin-left:530px;
+    margin-top:260px;
+    
+}
+
+h1 {
+    text-align:center;
+    padding:50px;
+    
+}
+.top{ color:black;
+    font-style:oblique;
+    padding: 9px 14px 9px 14px;
+    background: linear-gradient(gray,rgb(255, 191, 156));
+    border:none;
+    border-radius:15px;
+    margin-left: 35px;
+    text-decoration: none;
+    transition: 1s;
+   
+    
+}
+.nope{ color:black;
+    text-decoration: none;
+    padding: 9px 14px 9px 14px;
+    background: linear-gradient(gray,rgb(255, 191, 156));
+    border-radius:15px;
+    margin-left: 18em;
+    
+}
